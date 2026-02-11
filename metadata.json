@@ -1,0 +1,8 @@
+{
+  "name": "Nova Thought Space",
+  "description": "A premium, minimal productivity and notes app featuring grid layouts, timelines, and goal buckets.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
