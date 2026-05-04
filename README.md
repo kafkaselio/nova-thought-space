@@ -1,20 +1,18 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Nova Thought Space
 
-# Run and deploy your AI Studio app
+Nova Thought Space is a modern note management application designed to organize ideas, thoughts, tasks, and knowledge into a clean and structured digital space. Built for students, creators, planners, and thinkers, the app focuses on fast note capturing, smart sorting, and seamless storage so your information stays accessible instead of scattered.
 
-This contains everything you need to run your app locally.
+## Features
 
-View your app in AI Studio: https://ai.studio/apps/drive/1I43kject7fnXxz_NM2LKmlxUm1vatf3X
+* Clean and minimal UI focused on productivity
+* Create, edit, and organize notes efficiently
+* Categorize and sort notes for structured thinking
+* Store important ideas, plans, reminders, and knowledge in one place
+* Fast navigation and easy retrieval of saved content
+* Designed for both casual note-taking and long-term knowledge management
 
-## Run Locally
+## Vision
 
-**Prerequisites:**  Node.js
+Nova Thought Space aims to become more than a simple notes app — a personal digital thought hub where creativity, planning, and organization coexist in a streamlined workspace.
 
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Built with a focus on clarity, aesthetics, and usability.
